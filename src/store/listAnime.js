@@ -593,6 +593,12 @@ export default [
   },
   {
     animeEmoji: '👊 🥘 🌎',
+    animeName: 'Triangle Blue',
+    animeYear: 2011,
+    animeLink: 'https://myanimelist.net/anime/28171/Triangle_Blue',
+  },
+  {
+    animeEmoji: '👊 🥘 🌎',
     animeName: 'Shokugeki no Souma',
     animeYear: 2015,
     animeLink: 'https://myanimelist.net/anime/28171/Shokugeki_no_Souma',
