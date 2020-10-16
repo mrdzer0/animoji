@@ -12,7 +12,7 @@ export default [
     animeLink:'https://myanimelist.net/anime/857/Air_Gear'
   },
   {
-    animeEmoji: '🗼 🔮 💥 🏍️',
+    animeEmoji: '🗼 🔮 💨💥 🏍️',
     animeName: 'Akira',
     animeYear: 1988,
     animeLink: 'https://myanimelist.net/anime/47/Akira',
